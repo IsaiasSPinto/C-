@@ -1,0 +1,15 @@
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/Modulo 2.csproj.AssemblyReference.cache
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/Modulo 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/Modulo 2.AssemblyInfoInputs.cache
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/Modulo 2.AssemblyInfo.cs
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/Modulo 2.csproj.CoreCompileInputs.cache
+/home/isaias/projects/C#/Modulo 2/bin/Debug/net6.0/Modulo 2
+/home/isaias/projects/C#/Modulo 2/bin/Debug/net6.0/Modulo 2.deps.json
+/home/isaias/projects/C#/Modulo 2/bin/Debug/net6.0/Modulo 2.runtimeconfig.json
+/home/isaias/projects/C#/Modulo 2/bin/Debug/net6.0/Modulo 2.dll
+/home/isaias/projects/C#/Modulo 2/bin/Debug/net6.0/Modulo 2.pdb
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/Modulo 2.dll
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/refint/Modulo 2.dll
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/Modulo 2.pdb
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/Modulo 2.genruntimeconfig.cache
+/home/isaias/projects/C#/Modulo 2/obj/Debug/net6.0/ref/Modulo 2.dll

@@ -1,0 +1,15 @@
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/bin/Debug/net6.0/SegundoProblema
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/bin/Debug/net6.0/SegundoProblema.deps.json
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/bin/Debug/net6.0/SegundoProblema.runtimeconfig.json
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/bin/Debug/net6.0/SegundoProblema.dll
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/bin/Debug/net6.0/SegundoProblema.pdb
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/SegundoProblema.csproj.AssemblyReference.cache
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/SegundoProblema.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/SegundoProblema.AssemblyInfoInputs.cache
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/SegundoProblema.AssemblyInfo.cs
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/SegundoProblema.csproj.CoreCompileInputs.cache
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/SegundoProblema.dll
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/refint/SegundoProblema.dll
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/SegundoProblema.pdb
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/SegundoProblema.genruntimeconfig.cache
+/home/isaias/projects/C#/Modulo 2/SegundoProblema/obj/Debug/net6.0/ref/SegundoProblema.dll
