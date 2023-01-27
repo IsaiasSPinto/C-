@@ -1,0 +1,15 @@
+/home/isaias/projects/C#/Modulo 3/Exercicio/bin/Debug/net6.0/Exercicio
+/home/isaias/projects/C#/Modulo 3/Exercicio/bin/Debug/net6.0/Exercicio.deps.json
+/home/isaias/projects/C#/Modulo 3/Exercicio/bin/Debug/net6.0/Exercicio.runtimeconfig.json
+/home/isaias/projects/C#/Modulo 3/Exercicio/bin/Debug/net6.0/Exercicio.dll
+/home/isaias/projects/C#/Modulo 3/Exercicio/bin/Debug/net6.0/Exercicio.pdb
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/Exercicio.csproj.AssemblyReference.cache
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/Exercicio.AssemblyInfoInputs.cache
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/Exercicio.AssemblyInfo.cs
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/Exercicio.csproj.CoreCompileInputs.cache
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/Exercicio.dll
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/refint/Exercicio.dll
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/Exercicio.pdb
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/Exercicio.genruntimeconfig.cache
+/home/isaias/projects/C#/Modulo 3/Exercicio/obj/Debug/net6.0/ref/Exercicio.dll

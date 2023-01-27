@@ -1,0 +1,15 @@
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/bin/Debug/net6.0/Encapsulamento
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/bin/Debug/net6.0/Encapsulamento.deps.json
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/bin/Debug/net6.0/Encapsulamento.runtimeconfig.json
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/bin/Debug/net6.0/Encapsulamento.dll
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/bin/Debug/net6.0/Encapsulamento.pdb
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/Encapsulamento.csproj.AssemblyReference.cache
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/Encapsulamento.AssemblyInfoInputs.cache
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/Encapsulamento.AssemblyInfo.cs
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/Encapsulamento.dll
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/refint/Encapsulamento.dll
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/Encapsulamento.pdb
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/Encapsulamento.genruntimeconfig.cache
+/home/isaias/projects/C#/Modulo 3/Encapsulamento/obj/Debug/net6.0/ref/Encapsulamento.dll
