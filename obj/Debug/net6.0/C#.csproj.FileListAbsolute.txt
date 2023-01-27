@@ -1,0 +1,15 @@
+/home/isaias/projects/C#/bin/Debug/net6.0/C#
+/home/isaias/projects/C#/bin/Debug/net6.0/C#.deps.json
+/home/isaias/projects/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/home/isaias/projects/C#/bin/Debug/net6.0/C#.dll
+/home/isaias/projects/C#/bin/Debug/net6.0/C#.pdb
+/home/isaias/projects/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/home/isaias/projects/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaias/projects/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/home/isaias/projects/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/home/isaias/projects/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/home/isaias/projects/C#/obj/Debug/net6.0/C#.dll
+/home/isaias/projects/C#/obj/Debug/net6.0/refint/C#.dll
+/home/isaias/projects/C#/obj/Debug/net6.0/C#.pdb
+/home/isaias/projects/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/home/isaias/projects/C#/obj/Debug/net6.0/ref/C#.dll
