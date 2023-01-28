@@ -1,0 +1,15 @@
+/home/isaias/projects/C#/Modulo 4/Nullable/bin/Debug/net6.0/Nullable
+/home/isaias/projects/C#/Modulo 4/Nullable/bin/Debug/net6.0/Nullable.deps.json
+/home/isaias/projects/C#/Modulo 4/Nullable/bin/Debug/net6.0/Nullable.runtimeconfig.json
+/home/isaias/projects/C#/Modulo 4/Nullable/bin/Debug/net6.0/Nullable.dll
+/home/isaias/projects/C#/Modulo 4/Nullable/bin/Debug/net6.0/Nullable.pdb
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/Nullable.csproj.AssemblyReference.cache
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/Nullable.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/Nullable.AssemblyInfoInputs.cache
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/Nullable.AssemblyInfo.cs
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/Nullable.csproj.CoreCompileInputs.cache
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/Nullable.dll
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/refint/Nullable.dll
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/Nullable.pdb
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/Nullable.genruntimeconfig.cache
+/home/isaias/projects/C#/Modulo 4/Nullable/obj/Debug/net6.0/ref/Nullable.dll
