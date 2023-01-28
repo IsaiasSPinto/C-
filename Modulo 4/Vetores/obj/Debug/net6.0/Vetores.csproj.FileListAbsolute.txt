@@ -1,0 +1,15 @@
+/home/isaias/projects/C#/Modulo 4/Vetores/bin/Debug/net6.0/Vetores
+/home/isaias/projects/C#/Modulo 4/Vetores/bin/Debug/net6.0/Vetores.deps.json
+/home/isaias/projects/C#/Modulo 4/Vetores/bin/Debug/net6.0/Vetores.runtimeconfig.json
+/home/isaias/projects/C#/Modulo 4/Vetores/bin/Debug/net6.0/Vetores.dll
+/home/isaias/projects/C#/Modulo 4/Vetores/bin/Debug/net6.0/Vetores.pdb
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/Vetores.csproj.AssemblyReference.cache
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/Vetores.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/Vetores.AssemblyInfoInputs.cache
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/Vetores.AssemblyInfo.cs
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/Vetores.csproj.CoreCompileInputs.cache
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/Vetores.dll
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/refint/Vetores.dll
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/Vetores.pdb
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/Vetores.genruntimeconfig.cache
+/home/isaias/projects/C#/Modulo 4/Vetores/obj/Debug/net6.0/ref/Vetores.dll
