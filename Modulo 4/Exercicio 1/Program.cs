@@ -1,5 +1,4 @@
-﻿using System;
-using Exercicio_1;
+﻿using Exercicio_1;
 
 Console.WriteLine("How many rooms will be rented? ");
 
